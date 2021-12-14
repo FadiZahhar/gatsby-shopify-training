@@ -32,6 +32,24 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### 9 Query Shopify data using GraphiQL
 <iframe src="https://player.vimeo.com/video/656212361" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
+## 2. Building the product pages
+
+### 1 Query Shopify data from Gatsby & generate pages from product data
+<iframe src="https://player.vimeo.com/video/656212932" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 Start building the product template
+<iframe src="https://player.vimeo.com/video/656213880" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 Querying for a specific Product using page queries
+<iframe src="https://player.vimeo.com/video/656214719" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4 Introduction to styled components
+<iframe src="https://player.vimeo.com/video/656215653" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
