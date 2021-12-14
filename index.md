@@ -50,6 +50,22 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <iframe src="https://player.vimeo.com/video/656215653" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
+
+## 3. Building the image gallery
+
+### 1 Introduction to images in Gatsby
+<iframe src="https://player.vimeo.com/video/656217151" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 Creating the ImageGallery component
+<iframe src="https://player.vimeo.com/video/656218021" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 Creating and rendering the ImageThumbnail components
+<iframe src="https://player.vimeo.com/video/656219038" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4 Implementing active thumbnail feature
+<iframe src="https://player.vimeo.com/video/656220032" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
