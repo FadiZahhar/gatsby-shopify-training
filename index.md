@@ -4,6 +4,34 @@ You can use the [editor on GitHub](https://github.com/FadiZahhar/gatsby-shopify-
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+## 1. Introduction & Setup
+
+### 1 Course introduction
+<iframe src="https://player.vimeo.com/video/656207526" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 Gatsby & Shopify Overview
+<iframe src="https://player.vimeo.com/video/656208148" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 Set up Gatsby project
+<iframe src="https://player.vimeo.com/video/656208671" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4 Gatsby project starter files walkthrough
+<iframe src="https://player.vimeo.com/video/656208966" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 5 Set up Shopify & importing example products
+<iframe src="https://player.vimeo.com/video/656209815" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 6 Disable Shopify real-life payments + enable bogus payments
+<iframe src="https://player.vimeo.com/video/656210978" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 7 Collections in Shopify
+<iframe src="https://player.vimeo.com/video/656211304" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 8 Set up API keys in Shopify & connect to Gatsby
+<iframe src="https://player.vimeo.com/video/656211625" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 9 Query Shopify data using GraphiQL
+<iframe src="https://player.vimeo.com/video/656212361" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
