@@ -66,6 +66,32 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <iframe src="https://player.vimeo.com/video/656220032" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
+
+## 4. Dynamically querying data
+
+### 1 Introduction to CartContext and calling the shopify API dynamically
+<iframe src="https://player.vimeo.com/video/656221004" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 Rendering the product variants
+<iframe src="https://player.vimeo.com/video/656222398" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 Rendering the variant price
+<iframe src="https://player.vimeo.com/video/656223093" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4 Implementing routing for variants (part 1)
+<iframe src="https://player.vimeo.com/video/656224036" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 5 Implementing routing for variants (part 2)
+<iframe src="https://player.vimeo.com/video/656225518" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 6 Change the image thumbnail on variant selection
+<iframe src="https://player.vimeo.com/video/656226240" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 7 Hide variants if only 1 variant
+<iframe src="https://player.vimeo.com/video/656226703" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
