@@ -114,6 +114,26 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
+## 6. Building the 'Your Cart' page
+
+### 1 Link to the cart page
+<iframe src="https://player.vimeo.com/video/656231302" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 Creating the page and rendering our cart items
+<iframe src="https://player.vimeo.com/video/656231937" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 Styling the cart items
+<iframe src="https://player.vimeo.com/video/656232715" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4 Adding the quantity adjuster buttons
+<iframe src="https://player.vimeo.com/video/656233893" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 5 Adding the delete button
+<iframe src="https://player.vimeo.com/video/656235087" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
