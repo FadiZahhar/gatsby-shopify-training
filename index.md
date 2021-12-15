@@ -92,6 +92,28 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
+## 5. Building the cart functionality
+
+### 1 Creating the ProductQuantityAdder component (part 1)
+<iframe src="https://player.vimeo.com/video/656226836" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 Creating the ProductQuantityAdder component (part 2)
+<iframe src="https://player.vimeo.com/video/656228182" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 Add logic to the ProductQuantityAdder
+<iframe src="https://player.vimeo.com/video/656228537" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4 Creating the Header component
+<iframe src="https://player.vimeo.com/video/656228873" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 5 Implement the add to cart functionality
+<iframe src="https://player.vimeo.com/video/656229653" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 6 Display the number of items and total price in header
+<iframe src="https://player.vimeo.com/video/656230848" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
