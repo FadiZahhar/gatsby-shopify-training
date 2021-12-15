@@ -133,6 +133,35 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
+## 7. Building the homepage
+
+### 1 Adding collections data
+<iframe src="https://player.vimeo.com/video/656235732" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 Querying collections from homepage
+<iframe src="https://player.vimeo.com/video/656236563" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 Rendering collections grid
+<iframe src="https://player.vimeo.com/video/656237381" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4 Styling the collections tiles
+<iframe src="https://player.vimeo.com/video/656238140" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 5 Styling the sale tile
+<iframe src="https://player.vimeo.com/video/656239137" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 6 Rendering the featured products
+<iframe src="https://player.vimeo.com/video/656240381" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 7 Styling the featured products grid
+<iframe src="https://player.vimeo.com/video/656241272" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 8 Finishing the product tiles
+<iframe src="https://player.vimeo.com/video/656242458" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
+
 
 ### Markdown
 
