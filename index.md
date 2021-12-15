@@ -181,6 +181,27 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
+## 10. Finishing touches
+
+### 1 Implementing the checkout
+<iframe src="https://player.vimeo.com/video/656250260" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 Add shop now buttons to the homepage collection tiles
+<iframe src="https://player.vimeo.com/video/656251329" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 Add a homepage logo link
+<iframe src="https://player.vimeo.com/video/656252109" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4 SEO
+<iframe src="https://player.vimeo.com/video/656252931" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
+
+
+
+
+
 
 
 ### Markdown
