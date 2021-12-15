@@ -161,6 +161,26 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
+## 8. Building the all products pages
+
+### 1 Creating the all-products page and rendering the filters
+<iframe src="https://player.vimeo.com/video/656244192" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 Styling the filters and creating the Checkbox component
+<iframe src="https://player.vimeo.com/video/656245076" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 Creating the Category filter checkbox functionality
+<iframe src="https://player.vimeo.com/video/656246508" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4 Implement select  deselect multiple category filters
+<iframe src="https://player.vimeo.com/video/656247390" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 5 Rendering products
+<iframe src="https://player.vimeo.com/video/656248564" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
+
 
 
 ### Markdown
