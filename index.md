@@ -198,6 +198,24 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
+## 11. Deploy live site on Netlify
+
+### 1 Deploy to netlify
+<iframe src="https://player.vimeo.com/video/656253759" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 Automatic re-build whenever shopify content changes
+<iframe src="https://player.vimeo.com/video/656254208" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 Extending auto rebuild - intro to faunadb
+<iframe src="https://player.vimeo.com/video/656254546" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4 Netlify functions
+<iframe src="https://player.vimeo.com/video/656255090" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 5 Finishing up auto rebuild
+<iframe src="https://player.vimeo.com/video/656255532" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
 
 
 
